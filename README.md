@@ -8,11 +8,13 @@ QEMU:
 FASM:
 `sudo apt install fasm`
 
-GCC:`\n'
+GCC:
 `sudo apt install gcc-multilib`
 
 `sudo apt install binutils`
+
 `sudo apt install g++`
+
 `sudo apt install g++-multilib`
 
 `sudo apt-get update`
