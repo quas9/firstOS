@@ -16,9 +16,8 @@ GCC:
 `sudo apt install g++`
 
 `sudo apt install g++-multilib`
-
-`sudo apt-get update`
-
 ***
 After all: 
+
+`sudo apt-get update`
 use `make` to start Makefile
