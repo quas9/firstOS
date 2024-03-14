@@ -1,4 +1,4 @@
-My firest operating system for Linux, use FASM, GCC and QEMU.
+My first operating system for Linux, use FASM, GCC and QEMU.
 
 for using it u need to install:
 
