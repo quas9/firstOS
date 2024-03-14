@@ -1,13 +1,13 @@
 My first operating system for Linux, use FASM, GCC and QEMU.
 
 for using it u need to install:
-
+***
 QEMU:
 `sudo apt-get install qemu-system`
-
+***
 FASM:
 `sudo apt install fasm`
-
+***
 GCC:
 `sudo apt install gcc-multilib`
 
@@ -19,6 +19,6 @@ GCC:
 
 `sudo apt-get update`
 
-
+***
 After all: 
 use `make` to start Makefile
